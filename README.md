@@ -2,7 +2,7 @@
 
 
 - 💬 Ask me about `Anime` and `games`
-- 📫 How to reach me: [Telegram](https://t.me/asif987patel), [Instagram](https://www.instagram.com/dhairya_desai/)
+- 📫 How to reach me: [Telegram](https://t.me/dhairya_desai23), [Instagram](https://www.instagram.com/dhairya_desai/)
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `I make memes`
 
