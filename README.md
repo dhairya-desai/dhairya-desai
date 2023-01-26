@@ -1,10 +1,9 @@
 ### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="24px">
 
 
-- 💬 Ask me about `Anime` and `games`
+- 💬 Ask me about `Cricket`
 - 📫 How to reach me: [Telegram](https://t.me/dhairya_desai23), [Instagram](https://www.instagram.com/dhairya_desai/)
 - 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: `I make memes`
 
 <img src="https://yc-stats.vercel.app/api?username=dhairya-desai&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Dhairya Desai's GitHub stats" />
 
