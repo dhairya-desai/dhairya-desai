@@ -5,9 +5,9 @@
 - 📫 How to reach me: [Telegram](https://t.me/dhairya_desai23), [Instagram](https://www.instagram.com/dhairya_desai/)
 - 😄 Pronouns: `He/Him`
 
-<img src="https://yc-stats.vercel.app/api?username=mazimez&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Dhairya Desai's GitHub stats" />
+<img src="https://yc-stats.vercel.app/api?username=dhairya-desai&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Dhairya Desai's GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazimez&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d" alt="Dhairya Desai's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairya-desai&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d" alt="Dhairya Desai's GitHub Streak" />
 
 <details>
  <summary><b>Most Used Languages</b></summary><br/>
