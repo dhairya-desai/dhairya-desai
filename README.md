@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 <a href="https://github.com/dhairya-desai">
   
-![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=dhairya-desai&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-ruby-one.vercel.app?username=dhairya-desai&show_icons=true&theme=tokyonight)
   
 </a>
 <a href="https://github.com/dhairya-desai">
