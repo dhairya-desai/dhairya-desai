@@ -1,6 +1,6 @@
  Hi, folks! <img src="https://raw.githubusercontent.com/dhairya-desai/dhairya-desai/main/wave.gif" width="30px"> I'm Dhairya Desai
 - 👀 I’ve keen interest in Web Development,Back-end Development
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning Laravel,AWS.
 - 💞️ I’m looking to collaborate on any Open Source Project.
 
 
