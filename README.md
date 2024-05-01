@@ -18,7 +18,7 @@ of the world and to contribute for the growth of organization.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhairya-desai&theme=swift&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhairya-desai&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
