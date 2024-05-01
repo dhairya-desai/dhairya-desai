@@ -1,4 +1,4 @@
- Hi, folks! <img src="https://raw.githubusercontent.com/dhairya-desai/dhairya-desai/main/wave.gif" width="30px"> I'm Dhairya Desai
+ Hi, folks! <img src="https://raw.githubusercontent.com/dhairya-desai/dhairya-desai/main/wave.gif" width="10px">I'm Dhairya Desai
 - 👀 I’ve keen interest in Web Development,Back-end Development,Devops.
 - 🌱 I’m currently learning Spring Boot & AWS.
 - 💞️ I’m looking to collaborate on any Open Source Project.
