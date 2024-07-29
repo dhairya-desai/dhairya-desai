@@ -17,8 +17,7 @@ of the world and to contribute to the growth of the organization.
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -30,25 +29,20 @@ of the world and to contribute to the growth of the organization.
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white) 
 ![Spring Data](https://img.shields.io/badge/Spring%20Data-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Database Systems & Management
-![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300599C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%2300A1F1.svg?style=for-the-badge&logo=amazon-rds&logoColor=white) 
 
 ### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) 
-![Mockito](https://img.shields.io/badge/Mockito-%23007ACC.svg?style=for-the-badge&logo=mockito&logoColor=white) 
-![Mockk](https://img.shields.io/badge/Mockk-%230040FF.svg?style=for-the-badge&logo=mockk&logoColor=white) 
-![PowerMock](https://img.shields.io/badge/PowerMock-%23FFA500.svg?style=for-the-badge&logo=powermock&logoColor=white) 
-![LocalStack](https://img.shields.io/badge/LocalStack-%230081FF.svg?style=for-the-badge&logo=localstack&logoColor=white) 
+
 
 ### CI/CD
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Spinnaker](https://img.shields.io/badge/Spinnaker-%23284E6E.svg?style=for-the-badge&logo=spinnaker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) 
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white) 
@@ -57,7 +51,6 @@ of the world and to contribute to the growth of the organization.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%2300599C.svg?style=for-the-badge&logo=openai&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%2300000F.svg?style=for-the-badge&logo=splunk&logoColor=white) 
-![Datadog](https://img.shields.io/badge/Datadog-%23055999.svg?style=for-the-badge&logo=datadog&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
@@ -69,7 +62,6 @@ of the world and to contribute to the growth of the organization.
 ### Workspace
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
