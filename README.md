@@ -68,10 +68,23 @@ of the world and to contribute to the growth of the organization.
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhairya-desai&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="Dhairya's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairya-desai&theme=swift&hide_border=false" alt="Dhairya's GitHub streak stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-desai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Dhairya's most used languages"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
