@@ -17,11 +17,14 @@ of the world and to contribute to the growth of the organization.
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
@@ -29,7 +32,12 @@ of the world and to contribute to the growth of the organization.
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white) 
 ![Spring Data](https://img.shields.io/badge/Spring%20Data-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 ### Database Systems & Management
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -38,6 +46,7 @@ of the world and to contribute to the growth of the organization.
 
 ### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) 
+![Mockito](https://img.shields.io/badge/Mockito-%23007ACC.svg?style=for-the-badge&logo=mockito&logoColor=white) 
 
 
 ### CI/CD
